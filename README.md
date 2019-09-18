@@ -200,3 +200,4 @@
 | Михаил Смаль                       | Lead developer                          |
 | Михаил Самин                       | CEO, AudD, Москва                       |
 | Соломатин Роман                    | Программист, Пермь                      |
+| Соловей Алексей                    | Network Engineer, JSC Almaz-Antey       |
